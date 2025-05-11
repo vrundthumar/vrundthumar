@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning java Script  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies like Html and CSS  
+- ❓ Ask me about anything related to Html and CSS and related technologies.
   
 
 - ⚡ Fun fact: I use tabs over spaces  

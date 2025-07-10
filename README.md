@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7C500&center=true&vCenter=true&width=435&lines=Passionate+Data+Analyst;Aspiring+Data+Scientist;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
---
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vrundthumar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> 
